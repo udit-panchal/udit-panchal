@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
 
 <!--
 **udit-panchal/udit-panchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
