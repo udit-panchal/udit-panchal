@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,firebase,mongodb,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,firebase,cpp,mongodb,c,java" /><br>
 </div>
 
 <br/>
