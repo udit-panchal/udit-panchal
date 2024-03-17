@@ -59,9 +59,11 @@ Here are some ideas to get you started:
     <h3>Web-Dev</h3>
     <h4>Front-End</h4>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,bootstrap,react"/><br>
+    <h4>Back-End</h4>
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,nodejs"/><br>
     <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,mongodb,firebase,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,firebase,cpp,mongodb,c,java,firebase,git,github,ai,js, materialui" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<!--     <img src="https://skillicons.dev/icons?i=,,,,,git,github,ai,js, materialui" /><br> -->
 </div>
 
 <br/>
