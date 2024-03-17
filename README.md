@@ -54,9 +54,10 @@ Here are some ideas to get you started:
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
+    <h3>Programming Language</h3>
     <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,firebase,cpp,mongodb,c,java,firebase,git,github,ai,js" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,react,mongodb,firebase,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,firebase,cpp,mongodb,c,java,firebase,git,github,ai,js, materialui" /><br>
 </div>
 
 <br/>
