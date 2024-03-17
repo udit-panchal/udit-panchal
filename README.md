@@ -58,9 +58,9 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript" /><br>
     <h3>Web-Dev</h3>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,firebase"/><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,mongodb,nodejs"/><br>
-    <h3>Tools</h3>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,mongodb,nodejs"/><br>                                                                                                                                                                                                                                                       
+    <h3>Tools & Other</h3>
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,ai,ps" />
 <!--     <img src="https://skillicons.dev/icons?i=,,,,,git,github,ai,js, materialui" /><br> -->
 </div>
 
