@@ -55,8 +55,8 @@ Here are some ideas to get you started:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,firebase,cpp,mongodb,c,java" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,firebase,cpp,mongodb,c,java,firebase,git,github,ai,js" /><br>
 </div>
 
 <br/>
