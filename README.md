@@ -57,8 +57,8 @@ Here are some ideas to get you started:
     <h3>Programming Language</h3>
     <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript" /><br>
     <h3>Web-Dev</h3>
-    <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,react,firebase"/><br>
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstap,mongodb,nodejs"/><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,firebase"/><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,mongodb,nodejs"/><br>
     <h3>Tools</h3>
     <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 <!--     <img src="https://skillicons.dev/icons?i=,,,,,git,github,ai,js, materialui" /><br> -->
