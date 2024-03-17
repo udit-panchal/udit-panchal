@@ -27,13 +27,11 @@ Here are some ideas to get you started:
 
 <div align="center">
  
- 🔭 I’m currently working on **Node js**
+ 🔭 I’m currently working on **Node.js**
  
- 🌱 I’m currently learning **DSA, JAVA, Spring Spring Boot**
+ 🌱 I’m currently learning **DSA, JAava, Node.js**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/udit-panchal/udit-panchal/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+💬 Ask me about **Front-end, React, Firebase... or anything [here](https://github.com/udit-panchal/udit-panchal/issues)**
 
  </div>
  
