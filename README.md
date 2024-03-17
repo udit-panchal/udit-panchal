@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  
  🔭 I’m currently working on **Node.js**
  
- 🌱 I’m currently learning **DSA, JAava, Node.js**
+ 🌱 I’m currently learning **DSA, Java, Node.js**
 
 💬 Ask me about **Front-end, React, Firebase... or anything [here](https://github.com/udit-panchal/udit-panchal/issues)**
 
